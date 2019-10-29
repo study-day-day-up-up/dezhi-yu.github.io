@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
- <img src="https://raw.githubusercontent.com/yilin-wu98/website-images/master/Downloads/images/background.jpg" alt="Photo" style="width: 450px;"/> 
+  
+ <img src="../images/background.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
-
+<!--https://raw.githubusercontent.com/yilin-wu98/website-images/master/Downloads/images/background.jpg-->
 * I am currently an undergraduate student in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), pursuing Bachelor's Degree in Shool of Electronic Information and Electrical Engineering. 
 * My research experience starts from sophomore year when I joined [APEX Lab](http://apex.sjtu.edu.cn/), in Computer Science Department and was advised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 * For the 2019 Spring Semester, I studied in UC Berkeley as an international exchange student and continued to do research in [BAIR Lab](https://bair.berkeley.edu/), advised by [Prof. Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). 
