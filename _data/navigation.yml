@@ -9,8 +9,8 @@ main:
   - title: "Awards & Honors"
     url: /awards/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+   # url: /portfolio/
     
   - title: "CV"
     url: /cv/
