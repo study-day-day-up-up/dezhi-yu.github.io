@@ -27,9 +27,9 @@ redirect_from:
 * Apr. 2018 Thanks to [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), My research experience started in [APEX Lab](http://apex.sjtu.edu.cn/).
 * Nov. 2017. I received the National Scholarship(Top 2%) 
 
-
-<a href="https://clustrmaps.com/site/1azfp"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UkSYNydg5etXwSs88EkXKVrPVxBqIjwvFChXgAfYqp0&cl=ffffff" style="width:450px;"/></a>
 <p align="center">
+<a href="https://clustrmaps.com/site/1azfp"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UkSYNydg5etXwSs88EkXKVrPVxBqIjwvFChXgAfYqp0&cl=ffffff" style="width:450px;"/></a>
+</p>
   
 <!-- <img src="http://clustrmaps.com/map_v2.png?d=UkSYNydg5etXwSs88EkXKVrPVxBqIjwvFChXgAfYqp0&cl=ffffff"  style="width: 450px;"/> 
 </p>-->
