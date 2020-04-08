@@ -17,7 +17,7 @@ redirect_from:
 * My research experience starts from sophomore year when I joined [APEX Lab](http://apex.sjtu.edu.cn/), in Computer Science Department and was advised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 * For the 2019 Spring Semester, I studied in [UC Berkeley](https://www.berkeley.edu/) as an international exchange student and continued to do research in [BAIR Lab](https://bair.berkeley.edu/), advised by [Prof. Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). 
 * My research interest lies in Deep unsupervised learning, Reinforcement Learning and Robotics. I am also highly interested in devising algorithms that enable the robots to solve complex tasks to help human make better decisions.
-* My current CV is available [here](../files/CV.pdf). If you are interested in my research or have any other questions, feel free to contact me!
+* My current CV is available [here](../files/cv.pdf). If you are interested in my research or have any other questions, feel free to contact me!
 
 # Recent News
 * Oct. 2019. I gave a talk at Shanghai Jiao Tong University,[APEX Lab](http://apex.sjtu.edu.cn/), introducing and summarizing my summer project.
