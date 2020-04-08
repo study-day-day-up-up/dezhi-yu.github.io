@@ -13,6 +13,6 @@ Education
 ======
 * B.S. in Information Security, Shanghai Jiao Tong University, expected 2020 [transcript](../files/transcript.pdf)
 
-For more details of my resume, please download my CV [here](../files/CV.pdf).
+For more details of my resume, please download my CV [here](../files/CV .pdf).
 
 
